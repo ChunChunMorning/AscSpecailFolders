@@ -1,0 +1,2 @@
+# AscSpecailFolders-Siv3D
+Siv3DでWindowsの特殊フォルダを取得するモジュール
